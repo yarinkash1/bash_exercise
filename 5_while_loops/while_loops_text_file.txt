@@ -1,0 +1,4 @@
+Hi, I am a text file example.
+This is the second line in the file. the third is blank.
+
+This is the fourth and last line in the file.
