@@ -1,0 +1,4 @@
+Parameter 1: 22
+Parameter 2: 33
+Sum of parameters: 55
+Multiplication of parameters: 726
