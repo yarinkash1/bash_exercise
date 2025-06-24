@@ -1,4 +1,4 @@
-Parameter 1: 22
-Parameter 2: 33
+Parameter 1: 33
+Parameter 2: 22
 Sum of parameters: 55
 Multiplication of parameters: 726
